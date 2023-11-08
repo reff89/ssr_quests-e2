@@ -1,0 +1,193 @@
+module Base
+{
+	mannequin FemaleFolk
+	{
+		female = true,
+		model = FemaleBody,
+		texture = FemaleBody01,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin MaleFolk
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody01,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+
+	mannequin Female_01
+	{
+		female = true,
+		model = FemaleBody,
+		texture = FemaleBody01,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Female_02
+	{
+		female = true,
+		model = FemaleBody,
+		texture = FemaleBody02,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Female_03
+	{
+		female = true,
+		model = FemaleBody,
+		texture = FemaleBody03,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Female_04
+	{
+		female = true,
+		model = FemaleBody,
+		texture = FemaleBody04,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+	
+	mannequin Female_05
+	{
+		female = true,
+		model = FemaleBody,
+		texture = FemaleBody05,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+
+	mannequin Male_01
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody01,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Male_02
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody02,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Male_03
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody03,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Male_04
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody04,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+	
+	mannequin Male_05
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody05,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+
+	mannequin Male_01a
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody01a,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Male_02a
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody02a,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Male_03a
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody03a,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+	mannequin Male_04a
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody04a,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+	
+	mannequin Male_05a
+	{
+		female = false,
+		model = MaleBody,
+		texture = MaleBody05a,
+		animSet = mnpc,
+		animState = idle,
+		pose = default,
+		outfit = none,
+	}
+
+}
